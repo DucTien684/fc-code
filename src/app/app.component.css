@@ -1,0 +1,59 @@
+.Ma{
+top: 268px;
+left: 472px;
+width: 52px;
+height: 35px;
+text-align: left;
+font: Medium 30px/37px Montserrat;
+letter-spacing: 0px;
+color: #8B8787;
+opacity: 1;
+
+}
+.Tungay{
+  top: 269px;
+left: 1270px;
+width: 136px;
+height: 34px;
+text-align: left;
+font: Medium 30px/37px Montserrat;
+letter-spacing: 0px;
+color: #8B8787;
+opacity: 1;
+}
+.TieuDe{
+  top: 363px;
+left: 471px;
+width: 125px;
+height: 34px;
+text-align: left;
+font: Medium 30px/37px Montserrat;
+letter-spacing: 0px;
+color: #8B8787;
+opacity: 1;
+}
+.Denngay{
+  top: 365px;
+left: 1270px;
+width: 150px;
+height: 39px;
+text-align: left;
+font: Medium 30px/37px Montserrat;
+letter-spacing: 0px;
+color: #8B8787;
+opacity: 1;
+}
+
+
+
+input[type=search] {
+   top: 439px;
+left: 1048px;
+width: 152px;
+height: 41px;
+text-align: left;
+font: Medium 30px/37px Montserrat;
+letter-spacing: 0px;
+color: #8B8787;
+opacity: 1;
+}
