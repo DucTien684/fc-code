@@ -75,3 +75,16 @@ font: Medium 30px/37px Montserrat;
 letter-spacing: 0px;
 color: #828282;
 }
+table, th, td{
+          
+            border-top:1px solid #ccc;
+            border-bottom:1px solid #ccc;
+        }
+        table{
+            border-collapse:collapse;
+            width:100%;
+        }
+        th, td{
+            text-align:left;
+            padding:10px;
+        }
